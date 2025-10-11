@@ -1,5 +1,7 @@
 Sistema de Detecção de Anomalias Paranormais (SDAP)
+
 Introdução
+
 Inspirado em equipamentos popularizados por programas de investigação paranormal, como "Supernatural", este projeto aborda a necessidade de monitorar ambientes em busca de anomalias que possam indicar uma presença inexplicada. Investigadores muitas vezes precisam de ferramentas que possam ser deixadas em um local para coletar dados de forma autônoma e permitir o monitoramento remoto em tempo real.
 
 O SDAP (Sistema de Detecção de Anomalias Paranormais) foi desenvolvido como uma solução de IoT (Internet das Coisas) para este cenário. O sistema utiliza um microcontrolador ESP32 conectado a sensores de temperatura e som para detectar duas das ocorrências mais comuns associadas a fenômenos paranormais: quedas bruscas de temperatura ("pontos frios") e ruídos inexplicados (Fenômenos de Voz Eletrônica - EVP).
